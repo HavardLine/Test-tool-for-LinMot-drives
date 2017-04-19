@@ -2,9 +2,6 @@ Code comments:
 This is a test tool i have written to test LinMot drives. The tool only use a limited set of instructions.
 Please commit more code if you want.
 
-License:
-GNU General Public License v2
-
 Safety:
 Please do not set power on anything before you have good safety.
 This program has no limits, thus it can shoot parts longer than intended.
